@@ -1,4 +1,5 @@
-# IT Project Management Course Project
+# IT Project Management Project
+# SenecaSync App Development
 
 ## Overview
 This repository contains the comprehensive documentation and files related to the IT Project Management course project, showcasing the practical application of project management fundamentals within an IT context. The repository includes a business case, lessons learned, milestone reports, final project report, presentation, project charter plan, risk management table, WBS dictionary, and WBS files.
@@ -20,16 +21,6 @@ This repository contains the comprehensive documentation and files related to th
 1. **Clone this repository**: Access all project materials and documentation.
 2. **Explore**: Navigate through the folders to view and use the documents.
 3. **Use Microsoft Project**: Open `.mpp` files with Microsoft Project or compatible software for detailed project planning insights.
-
-## Contributing
-
-Contributions, suggestions, and feedback are welcome to improve the project. Please refer to `CONTRIBUTING.md` for guidelines on contributing to this repository.
-
-## Support
-
-For any questions or support, please open an issue in this repository or contact the project team via email.
-
-
 
 ## Disclaimer
 
