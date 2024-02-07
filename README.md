@@ -1,51 +1,37 @@
-# Seneca Library Application
+# IT Project Management Course Project
 
-Welcome to the Seneca Library Application repository. This project is a comprehensive library management system developed in C++, showcasing advanced concepts in object-oriented programming, data management, and user interaction.
+## Overview
+This repository contains the comprehensive documentation and files related to the IT Project Management course project, showcasing the practical application of project management fundamentals within an IT context. The repository includes a business case, lessons learned, milestone reports, final project report, presentation, project charter plan, risk management table, WBS dictionary, and WBS files.
 
-## Table of Contents
+## Contents
 
-- [Project Description](#project-description)
-- [Project](#project)
-- [Contact](#contact)
-- [Disclaimer](#Disclaimer)
+- **Business Case**: Justification, benefits, costs, and impacts of the project.
+- **Lessons Learned**: Insights and key takeaways from the project.
+- **Milestone Report**: Updates on project progress at defined intervals.
+- **Final Project Report**: Detailed overview of the project from start to finish.
+- **Presentation**: Materials for the project's final presentation.
+- **Project Charter Plan**: Scope, objectives, and stakeholders of the project.
+- **Risk Management Table**: Potential risks with impacts and mitigation strategies.
+- **WBS Dictionary**: Detailed descriptions of WBS elements.
+- **WBS.mpp**: Work Breakdown Structure in Microsoft Project format.
 
-## Project Description
+## Getting Started
 
-The Seneca Library Application is a comprehensive library management system I developed as part of my advanced studies in C++. This project demonstrates my capability in handling complex software development tasks, including object-oriented programming, data management, and user interaction. The application efficiently manages library operations like tracking publications, lending books and periodicals, and handling returns.
+1. **Clone this repository**: Access all project materials and documentation.
+2. **Explore**: Navigate through the folders to view and use the documents.
+3. **Use Microsoft Project**: Open `.mpp` files with Microsoft Project or compatible software for detailed project planning insights.
 
-### Key Features:
+## Contributing
 
-**Modular Design**: 
-  The project is structured into several milestones, each adding functionality and complexity, highlighting an incremental development approach.
-  
-**Streamable Interface**: 
-  Custom IO operations for library items are managed through a Streamable interface, showcasing polymorphic behavior.
-  
-**Dynamic Memory Management**: 
-  The application uses dynamic memory allocation efficiently, demonstrating the use of smart pointers and memory management techniques.
-  
-**User Interaction**: 
-  Features a user-friendly, console-based interface that facilitates easy navigation and operation of library management tasks.
-  
-**Error Handling**: 
-  Incorporates comprehensive error checking and validation to ensure the reliability and robustness of the application.
+Contributions, suggestions, and feedback are welcome to improve the project. Please refer to `CONTRIBUTING.md` for guidelines on contributing to this repository.
 
-## Project
+## Support
 
-Seneca Library Application:
-#### [Assembly Line Simulator](https://github.com/MohsenSabet/AdvancedCppProjects/tree/main/Project)
+For any questions or support, please open an issue in this repository or contact the project team via email.
 
-## Contact
-I'm always open to discussing software development, C++ programming, or potential collaboration opportunities. If you have any questions, feedback, or would like to connect, please don't hesitate to reach out to me. Your input and inquiries are always welcome.
 
-- Email: 📧 [msabetkoohenjani@myseneca.ca](mailto:msabetkoohenjani@myseneca.ca)
-- LinkedIn: [Mohsen Sabet](https://www.linkedin.com/in/mohsen-sabet-9a35981aa/)
-
-Feel free to connect with me on LinkedIn for a more professional networking experience.
-
-Thank you for your interest in my work!
 
 ## Disclaimer
-I kindly urge visitors to use this repository as a learning resource and not for plagiarism or cheating in academic or professional settings. This collection represents my personal journey and effort in mastering Object-Oriented Software Development using C++, and I strongly support the principles of academic integrity and intellectual honesty.
 
+This project is for educational purposes only and is not intended for commercial use. The authors and contributors accept no responsibility for any inaccuracies or omissions. Users should apply critical thinking and due diligence when interacting with the project components.
 
